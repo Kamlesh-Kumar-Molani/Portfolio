@@ -1,9 +1,9 @@
 import { Link } from 'react-router-dom';
 import { Icon } from '@iconify/react';
 import { useEffect } from 'react';
-import './Blog/BlogDetails.scss';
-import '../Blog/Blog.scss';
-import '../Blog/Comment.scss';
+import './BlogDetails.scss';
+import './Blog.scss';
+import './Comments.scss';
 import '../Contact/Contact.scss';
 import Carousel from '../Slider/Carousel';
 

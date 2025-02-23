@@ -1,13 +1,13 @@
 {
     "heroData": {
         "bgImgLink": "/images/background/hero-bg.jpg",
-        "imgLink": "/images/section/hero-img.jpg",
+        "imgLink": "/images/section/my image2.jpg",
         "title": "Kamlesh <br /> Kumar",
         "subTitle": "Hello, I’m",
         "designation": "Website Developer"
     },
     "aboutData": {
-        "imgLink": "/images/section/about.jpg",
+        "imgLink": "/images/section/r-img.jpg",
         "cvPdf": "/images/Resume.pdf",
         "title": "Hi There! I'm Kamlesh Kumar",
         "subtitle": "Website Developer",

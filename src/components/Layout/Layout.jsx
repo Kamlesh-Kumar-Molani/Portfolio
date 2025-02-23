@@ -3,7 +3,7 @@ import { useEffect, useState } from 'react';
 import { Outlet } from 'react-router-dom';
 import Footer from '../Footer/Footer.jsx';
 import Preloader from '../Preloader/Preloader.jsx';
-import CustomCursor from '../CustomCursor/CustomCursor.jsx';
+import CustomCursor from '../CustomCursor/CustemCursor.jsx';
 
 const Layout = () => {
   const [isLoading, setIsLoading] = useState(true);

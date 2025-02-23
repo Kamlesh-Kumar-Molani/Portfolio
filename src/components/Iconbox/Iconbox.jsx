@@ -1,6 +1,6 @@
 import PropTypes from 'prop-types'
 import SectionHeading from '../SectionHeading/SectionHeading'
-import './Iconbox.scss';
+import './icon.scss';
 
 const Iconbox = ({ data }) => {
   const { services } = data;

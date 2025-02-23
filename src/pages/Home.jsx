@@ -7,7 +7,7 @@ import Resume from '../components/Resume/ResumeSection.jsx';
 import BlogSection from '../components/Blog/BlogSection.jsx';
 import Contact from "../components/Contact/Contact.jsx";
 import ReviewSection from '../components/Review/ReviewSection.jsx';
-import PortfolioSection from '../components/Protfolio/PortfolioSection.jsx';
+import PortfolioSection from '../components/Portfolio/PortfolioSection.jsx';
 
 const Home = () => {
   const { heroData, aboutData, serviceData, skillData, portfolioData, blogData, resumeData, reviewData, contactData, socialData } = data;
