@@ -1,6 +1,6 @@
 {
     "heroData": {
-        "bgImgLink": "/images/background/hero-bg.jpg",
+        "bgImgLink": "../public/images/Background/hero-bg.jpg",
         "imgLink": "/images/section/my image2.jpg",
         "title": "Kamlesh <br /> Kumar",
         "subTitle": "Hello, I’m",
@@ -11,7 +11,7 @@
         "cvPdf": "/images/Resume.pdf",
         "title": "Hi There! I'm Kamlesh Kumar",
         "subtitle": "Website Developer",
-        "text": "I am a Website Developer with a strong focus on digital branding. Visul design seeks to attract, inspire, create desires and otivate people to respond to messages, with a view to making a favorable impact.",
+        "text": " builds and maintains websites using coding languages like HTML, CSS, and JavaScript. They ensure functionality, performance, and responsiveness. Developers can specialize in frontend, backend, or full-stack development. ",
         "details": [
             {
                 "title": "Birthday",
@@ -40,7 +40,7 @@
             {
                 "imgLink": "/images/icon/icon1.png",
                 "title": "Website Development",
-                "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+                "text": "is the process of building and maintaining a website using coding, design, and functionality. ",
                 "effect": "zoom-out-up",
                 "duration": "500",
                 "delay": "200"
@@ -48,31 +48,31 @@
             {
                 "imgLink": "/images/icon/icon2.png",
                 "title": "UI/UX Design",
-                "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+                "text": "Transforming design mockups into responsive and functional web pages using HTML, CSS, and JavaScript.",
                 "effect": "zoom-out-up",
                 "duration": "500",
                 "delay": "300"
             },
             {
                 "imgLink": "/images/icon/icon3.png",
-                "title": "Web Development",
-                "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+                "title": "Web Design",
+                "text": "nvolves structuring, styling, and optimizing websites for aesthetics, usability, and responsiveness.",
                 "effect": "zoom-out-up",
                 "duration": "500",
                 "delay": "400"
             },
             {
                 "imgLink": "/images/icon/icon4.png",
-                "title": "App Design",
-                "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+                "title": "Frontend API Integration",
+                "text": "Connecting the frontend with backend services using RESTful APIs or GraphQL.",
                 "effect": "zoom-out-up",
                 "duration": "500",
                 "delay": "500"
             },
             {
                 "imgLink": "/images/icon/icon5.png",
-                "title": "Motion Graphics",
-                "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+                "title": "Code Refactoring ",
+                "text": "Improving and optimizing existing code for better performance and readability.",
                 "effect": "zoom-out-up",
                 "duration": "500",
                 "delay": "600"
@@ -80,7 +80,7 @@
             {
                 "imgLink": "/images/icon/icon6.png",
                 "title": "Responsive Design",
-                "text": "Lorem ipsum dolor sittem ametamn elit, per sed do eiusmoad teimpor sittem elit inuning utsed sittem.",
+                "text": " makes websites adapt to different screen sizes for a smooth user experience.",
                 "effect": "zoom-out-up",
                 "duration": "500",
                 "delay": "700"
@@ -89,7 +89,7 @@
     },
     "skillData": {
         "title": "All the skills that I have in that field of work are mentioned.",
-        "text": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt.",
+        "text": "A website developer skilled in HTML, CSS, and JavaScript (ES6) builds structured, interactive, and user-friendly websites.With Tailwind CSS and Bootstrap, they create modern, responsive, and visually appealing designs.Using React.js, they develop dynamic, fast, and scalable user interfaces for web applications. They integrate Firebase for backend solutions like authentication, real-time databases, and hosting.Expertise in API integration ensures seamless communication between frontend and backend services.They focus on performance, accessibility, and cross-browser compatibility for a smooth user experience.Constantly learning new technologies, they stay updated with the latest trends in web development. ",
         "skills": [
             {
                 "title": "HTML",
@@ -108,6 +108,14 @@
             {
                 "title": "Javascript",
                 "progress": "90%",
+                "effect": "fade-up",
+                "duration": "500",
+                "delay": "400"
+            },
+            
+            {
+                "title": "ES6",
+                "progress": "70%",
                 "effect": "fade-up",
                 "duration": "500",
                 "delay": "400"
@@ -135,6 +143,13 @@
             },
             {
                 "title": "Firebase",
+                "progress": "70%",
+                "effect": "fade-up",
+                "duration": "500",
+                "delay": "800"
+            },
+            {
+                "title": "API Integration",
                 "progress": "70%",
                 "effect": "fade-up",
                 "duration": "500",
@@ -492,7 +507,7 @@
         "experience": [
             {
                 "title": "Senior UX/UI Designer",
-                "duration": "Jan 2020 - Present",
+                "duration": "Jan 2023 - Present",
                 "subTitle": "Bergnaum, Hills and Howe",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
             },

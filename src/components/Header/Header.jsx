@@ -17,7 +17,7 @@ const Header = () => {
         <div className="container">
           <div className="st-main-header-in">
             <div className="st-main-header-left">
-              <Link className="st-site-branding" to='/' id="hero"><h2>Kamlesh</h2></Link>
+              <Link className="st-site-branding" to='/' id="hero"><h2> <span className='st-site-branding-span ' style={{color: '#FFD700'}}>K</span>amlesh</h2></Link>
                 
              
             </div>

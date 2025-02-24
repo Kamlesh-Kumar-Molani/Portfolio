@@ -1,4 +1,6 @@
-@import '../../sass/default/variable.scss';
+// @import '../../sass/default/variable.scss';
+@use '../../sass/default/variable' as *;
+
 
 .st-about-img {
     min-height: 550px;
