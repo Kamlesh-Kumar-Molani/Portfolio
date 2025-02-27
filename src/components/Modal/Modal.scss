@@ -1,9 +1,9 @@
-@import '../../sass/default/variable';
+@use '../../sass/default/variable';
 
 
 .modal-title,
 .modal-subtitle {
-    color: $base-color4;
+    $base-color4: #ff5733; // Example color
 }
 
 .modal-body img {
