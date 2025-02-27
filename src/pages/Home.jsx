@@ -4,9 +4,9 @@ import About from '../components/About/About.jsx';
 import Iconbox from '../components/Iconbox/Iconbox.jsx';
 import Skill from '../components/Skill/Skill.jsx';
 import Resume from '../components/Resume/ResumeSection.jsx';
-import BlogSection from '../components/Blog/BlogSection.jsx';
+// import BlogSection from '../components/Blog/BlogSection.jsx';
 import Contact from "../components/Contact/Contact.jsx";
-import ReviewSection from '../components/Review/ReviewSection.jsx';
+// import ReviewSection from '../components/Review/ReviewSection.jsx';
 import PortfolioSection from '../components/Portfolio/PortfolioSection.jsx';
 
 const Home = () => {
@@ -19,8 +19,8 @@ const Home = () => {
       <Skill data={skillData} data-aos="fade-right" />
       <Resume data={resumeData} />
       <PortfolioSection data={portfolioData} data-aos="fade-right" />
-      <ReviewSection data={reviewData} data-aos="fade-right" />
-      <BlogSection data={blogData} data-aos="fade-right" />
+      {/* <ReviewSection data={reviewData} data-aos="fade-right" /> */}
+      {/* <BlogSection data={blogData} data-aos="fade-right" /> */}
       <Contact data={contactData} socialData={socialData} data-aos="fade-right" />
     </>
   )
