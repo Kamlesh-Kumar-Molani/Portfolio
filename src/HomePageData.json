@@ -7,7 +7,7 @@
         "designation": "Website Developer"
     },
     "aboutData": {
-        "imgLink": "public/image122.jpg",
+        "imgLink": "/image122.jpg",
         "cvPdf": "/images/Resume.pdf",
         "title": "Hi There! I'm Kamlesh Kumar",
         "subtitle": "Website Developer",
@@ -466,19 +466,19 @@
         "informations": [
             {
                 "imgLink": "/images/client/client1.png",
-                "title": "Richard Miles",
+                "title": "Ashok suther",
                 "designation": "Chairman",
                 "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
             },
             {
                 "imgLink": "/images/client/client2.png",
-                "title": "Vesta Shufelt",
+                "title": "Danesh Kumar",
                 "designation": "Executive Director",
                 "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
             },
             {
                 "imgLink": "/images/client/client3.png",
-                "title": "Joseph Alves",
+                "title": "JaiDev Jopria",
                 "designation": "Managing Director",
                 "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ullam accusamus autem itaque blanditiis enim debitis totam facilis reiciendis voluptate aspernatur!"
             },
@@ -513,7 +513,7 @@
             },
             {
                 "title": "Product Designer",
-                "duration": "Jan 2016 - December 2019",
+                "duration": "Jan 2023 - December 2026",
                 "subTitle": "Langosh, Sipes and Raynor",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ligula nulla, tincidunt id faucibus sed, suscipit feugiat turpis."
             },
